@@ -1,0 +1,33 @@
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+.img-1 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.heading1 {
+    text-align: center;
+    color: blue;
+    background-image: linear-gradient(#0037ff, #00ffea);
+    width: 645px;
+}
+.td {
+    text-align: center;
+    padding-bottom: 20%;
+}
+
+.heading {
+    text-align: center;
+    color: blue;
+}
+
+.dl {
+    float: left; 
+    margin-right: 20px;
+    padding-left: 30px;
+}
