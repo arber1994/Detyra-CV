@@ -6,22 +6,28 @@
 .img-1 {
     width: 100%;
     margin: 0;
-    padding: 0;
+    padding: 0%;
     display: block;
 }
 
 .heading1 {
     text-align: center;
     color: white;
-    background-image: linear-gradient(#0037ff, #00ffea);
+    background-image: linear-gradient(#6d8ec3, #00254c);
     width: 645px;
 }
 .td {
     text-align: center;
     padding-bottom: 20%;
 }
-
+.hd {
+    padding-bottom: 25%;
+}
 .heading {
+    text-align: center;
+    color: blue;
+}
+.heading2{
     text-align: center;
     color: blue;
 }
@@ -30,4 +36,13 @@
     float: left; 
     margin-right: 20px;
     padding-left: 30px;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+dl {
+    font-family: 'Times New Roman', Times, serif;
 }
